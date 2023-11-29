@@ -1,0 +1,2 @@
+$('#btn').click(addPost)
+render()
