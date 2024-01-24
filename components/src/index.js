@@ -5,17 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-// root.render(
-//   <React.StrictMode>
-//     <h1 className={'goldClass'}>Hai.</h1>
-//   </React.StrictMode>
-// );
-
-// root.render(
-//   <React.StrictMode>
-//     <h1 style={{color:'gold'}}>Hai.</h1>
-//   </React.StrictMode>
-// );
 root.render(
   <React.StrictMode>
     <App />
